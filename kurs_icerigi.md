@@ -307,3 +307,6 @@
 + Blok aygıt sürücülerinin yazımı
 + Blok aygıt sürücülerinde bellek haritalaması ve DMA kullanımı 
 + USB aygıt sürücüleri
+
+  # Kursa Kayıt
+[Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZEsc-GtqjMtHtXorrTSVfv4cJFRod4a01k8#/registration)
