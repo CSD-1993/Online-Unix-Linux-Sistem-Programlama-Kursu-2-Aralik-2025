@@ -2,6 +2,11 @@
 
 Aşağıda `Kaan Aslan` tarafından verilen `Online Unix-Linux Sistem Programlama Kursu` ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
+#### Bu kursa katılmakla mesleki kariyerim açısından ne fayda sağlayabilirim?
+Bu kurs Linux çekirdeği bağlamında işletim sistemlerinin tasarım ve yazımına ilişkin ayrıntılı bilgiler veriyor. Eğer Linux sistemlerinde C/C++ ile programlama yapıyorsanız ve Linux işletimsisteminin
+nasıl gerçekleştirdiğini merak ediyorsanız bu kurs size çok şey katacaktır. Bu kursta elde edeceğiniz bilgi ve becerilerle Linux'un (ve genel olarak işletim sistemlerinin) aşağı seviyeli çalışmasına yönelik 
+pek çok besleyici bilgi edineceksiniz. Bu bilgiler de pek çok süreci kavramanınzı ve yorumlamanızı kolaylaştıracaktır.
+
 #### Kurs programını online olarak takip etmem yani derslere fiziksel olarak katılmamam eğitimden alacağım verimi düşürür mü?
 Hayır. __C ve Sistem Programcıları Derneği__ olarak düzenlediğimiz online kursların bir dezavantaj oluşturmadığını görüyoruz. Kişiden kişiye değişebilmekle birlikte, öğrencinin eğitimi ev ya da çalışma ortamında daha rahat ve konforlu bir şekilde izlemesi genel olarak verimi arttırıyor. Ayrıca eğitime fiziksel olarak katılmanız durumunda, büyük kentlerdeki trafik koşulları düşünüldüğünde ulaşım için harcayacağınız süreden tasarruf etmiş oluyorsunuz.
 
@@ -11,7 +16,7 @@ Evet. Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisa
 ### Kaçırdığım dersler olursa nasıl telafi edebilirim?
 Kesin kayıt yaptıran tüm öğrencilerimiz yapılan dersin kaydını ileteceğimiz VIMEO bağlantısı üzerinden izleyebilirler.
 
-### 560 saatlik bir kurs süresi çok uzun değil mi?
+### 360 saatlik bir kurs süresi çok uzun değil mi?
 Eğitim içeriği göz önüne alındığında `560` saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
 
 ### Yurt dışında çalışıyorum / öğrenciyim. Derslere yurt dışından katılmam mümkün mü?
