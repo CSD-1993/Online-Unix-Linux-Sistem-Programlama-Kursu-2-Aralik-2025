@@ -1,4 +1,4 @@
-# Online Unix-Linux Sistem Programlama Kursu Genel Tanıtım
+# Online Unix/Linux Sistem Programlama Kursu - 17 Haziran 2025 Genel Tanıtım
 
 + Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir. Kurs `29 Nisan 2025` tarihinde başlayacaktır.
 
