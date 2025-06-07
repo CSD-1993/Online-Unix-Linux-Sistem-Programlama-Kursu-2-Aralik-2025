@@ -1,4 +1,4 @@
-# Online-Unix-Linux-Sistem-Programlama-17-Haziran-2025
+# Online Unix/Linux Sistem Programlama Kursu - 17 Haziran 2025
 
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ iş birliği ile düzenlenmektedir.
