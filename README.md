@@ -1,8 +1,8 @@
-# Online Unix/Linux Sistem Programlama Kursu - 17 Haziran 2025
+# Online Unix/Linux Sistem Programlama Kursu - 30 Eylül 2025
 
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ iş birliği ile düzenlenmektedir.
-+ Kurs __17 Haziran 2025__ tarihinde başlayacaktır.
++ Kurs __30 Eylül 2025__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi  __560__ saattir. 
