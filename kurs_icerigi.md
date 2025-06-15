@@ -309,4 +309,4 @@
 + USB aygıt sürücüleri
 
   # Kursa Kayıt
-[Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZEsc-GtqjMtHtXorrTSVfv4cJFRod4a01k8#/registration)
+[Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/qkuxsIeRRoCW5GKDRRCGqA#/registration)
