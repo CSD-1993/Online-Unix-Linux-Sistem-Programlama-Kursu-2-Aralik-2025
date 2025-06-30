@@ -1,4 +1,4 @@
-# Online Unix/Linux Sistem Programlama Kursu - 30 Eylül 2025 Kurs İçeriği (560 Saat)
+# Online Unix/Linux Sistem Programlama Kursu - 30 Eylül 2025 (560 Saat)
 
 ## Temel Kavramlar 
 
